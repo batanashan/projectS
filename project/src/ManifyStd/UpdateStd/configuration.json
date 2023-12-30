@@ -1,0 +1,23 @@
+[
+    {
+        "label":"SNO",
+        "id":"sno",
+        "name":"sno",
+        "type":"number"
+
+    },
+    { "label":"NAME",
+    "id":"name",
+    "name":"name",
+    "type":"text"},
+
+    { "label":"AGE",
+    "id":"age",
+    "name":"age",
+    "type":"number"},
+
+    { "label":"GRADE",
+        "id":"grade",
+        "name":"grd",
+        "type":"text"}
+]
