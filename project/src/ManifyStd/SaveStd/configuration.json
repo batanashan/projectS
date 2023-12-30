@@ -1,0 +1,36 @@
+[
+    {
+        "label":"SNO",
+        "id":"sno",
+        "name":"sno",
+        "type":"number",
+        "isShownErr":"",
+        "value":"",
+        "errorMsg":"Please Enter Number"
+
+    },
+    { "label":"NAME",
+    "id":"name",
+    "name":"name",
+    "type":"text", 
+    "isShownErr":"",
+    "value":"",
+"errorMsg":"Please Enter Name"},
+
+    { "label":"AGE",
+    "id":"age",
+    "name":"age",
+    "type":"number",
+    "isShownErr":"",
+    "value":"",
+    "errorMsg":"Please Enter age"},
+
+    { "label":"GRADE",
+        "id":"grade",
+        "name":"grd",
+        "type":"text",
+        "isShownErr":"",
+        "value":"",
+        "errorMsg":"Please Enter Grade"
+    }
+]
